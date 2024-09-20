@@ -15,5 +15,11 @@ console.log("very important js code")
 // console.log(typeof(5+2+"2"))
 // console.log(typeof(typeof(1)))
 // console.log(typeof(typeof(1)))
+// console.log(a);
+// let a = 4;
+
+
+let a = "falana"
+a = "dhimkana"
+
 console.log(a);
-let a = 4;
